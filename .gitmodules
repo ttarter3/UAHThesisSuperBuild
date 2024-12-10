@@ -1,0 +1,3 @@
+[submodule "UAHThesis"]
+	path = UAHThesis
+	url = git@github.com:ttarter3/UAHThesis.git

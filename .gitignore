@@ -1,3 +1,13 @@
+
+# Build Folders
+cmake-build-debug/*
+
+# Install Folders
+install/*
+
+# Miscellaneous
+UsefulScripts/*
+
 # Prerequisites
 *.d
 
@@ -30,3 +40,6 @@
 *.exe
 *.out
 *.app
+
+
+.idea
